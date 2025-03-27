@@ -91,7 +91,7 @@ async function generateAIImage(text) {
     const options = {
       method: 'POST',
       headers: {
-        Authorization: 'Bearer sk-layzpntgtnqvjmoqhzbcmnlgbvzdwuotdiiufgejsaxycpqp',
+        Authorization: 'Bearer sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
